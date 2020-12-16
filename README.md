@@ -3,6 +3,6 @@ Group Project for FullStackDataSchool Ed.00
 
 Participants:
 
-@dramella
+@dramella (https://github.com/dramella)
 
-@EmaMerca (https://github.com/EmaMerca)
+@EmaMerca 
